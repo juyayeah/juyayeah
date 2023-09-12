@@ -1,5 +1,5 @@
 신입 개발자 우주입니다
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat-square&logo=tistory&logoColor=#000000"/></a>
+<a href="https://backup-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/backup-study-white?style=flat-square&logo=tistory&logoColor=#000000"/></a>
 
 Skills
 
