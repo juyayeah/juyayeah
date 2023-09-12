@@ -1,6 +1,6 @@
 👋Contact Me<br>
-<a href="https://backup-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=tistory&logoColor=000000"/></a>
-<a href="mailto:deppsd0@gmail.com"><img src="https://img.shields.io/badge/deppsd0@gmail.com-ffffff?style=flat-square&logo=Gmail&logoColor=EA4335"/></a><br>
+<a href="https://backup-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
+<a href="mailto:deppsd0@gmail.com"><img src="https://img.shields.io/badge/deppsd0@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a><br>
 
 신입 개발자 우주입니다
 
