@@ -1,10 +1,11 @@
 <a href="https://backup-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=tistory&logoColor=000000"/></a>
-<a href="mailto:deppsd0@gmail.com"><img src="https://img.shields.io/badge/deppsd0@gmail.com-ffffff?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
+<a href="mailto:deppsd0@gmail.com"><img src="https://img.shields.io/badge/deppsd0@gmail.com-ffffff?style=flat-square&logo=Gmail&logoColor=EA4335"/></a><br>
+
 신입 개발자 우주입니다
 
 
 Skills
-<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <!--
 **juyayeah/juyayeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
