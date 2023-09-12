@@ -1,12 +1,10 @@
-신입 개발자 우주입니다
 <a href="https://backup-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=tistory&logoColor=000000"/></a>
+<a href="mailto:deppsd0@gmail.com"><img src="https://img.shields.io/badge/deppsd0@gmail.com-ffffff?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
+신입 개발자 우주입니다
+
 
 Skills
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyayeah&show_icons=true&theme=radical)
-
-
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
 
 <!--
 **juyayeah/juyayeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
